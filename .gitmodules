@@ -1,3 +1,9 @@
 [submodule "KiBoM"]
 	path = KiBoM
 	url = https://github.com/SchrodingersGat/KiBoM.git
+[submodule "InteractiveHtmlBom"]
+	path = InteractiveHtmlBom
+	url = https://github.com/openscopeproject/InteractiveHtmlBom
+[submodule "GLINCS-kicad-exporter"]
+	path = GLINCS-kicad-exporter
+	url = https://github.com/TheTrueTom/GLINCS-kicad-exporter.git
