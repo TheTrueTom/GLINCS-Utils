@@ -7,3 +7,6 @@
 [submodule "GLINCS-kicad-exporter"]
 	path = GLINCS-kicad-exporter
 	url = https://github.com/TheTrueTom/GLINCS-kicad-exporter.git
+[submodule "KiCad-Diff"]
+	path = KiCad-Diff
+	url = https://github.com/TheTrueTom/KiCad-Diff
